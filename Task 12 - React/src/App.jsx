@@ -1,4 +1,4 @@
-import Header from './components/header'; // Header mewera tavidan mara vs codema pirveli aso patarati damawerina, arada isec mushaobda.
+import Header from './components/Header'; 
 import Content from './components/Content';
 import Footer from './components/Footer';
 
